@@ -6,5 +6,5 @@
 <label/tabindex=0/
 <span/tabindex=0/
 <svg onload="alert(1)" <="" svg="" 
-
+<iframe autofocus onfocus=alert(1)>
 <a autofocus onfocus=alert(23) href=#>x</a>
